@@ -1,0 +1,17 @@
+{
+  "name": "webpackcommonschunkbug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "moment": "^2.20.1",
+    "webpack": "^3.10.0",
+    "webpack-bundle-analyzer": "^2.9.1"
+  }
+}
